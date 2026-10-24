@@ -2,8 +2,6 @@
 
 A consulting-style diagnostic tool for assessing an organization's readiness to adopt AI and digital technologies across five key dimensions.
 
-Built as a portfolio project targeting Big 4 AI and Digital Transformation consulting roles.
-
 ---
 
 ## What This Is
@@ -86,8 +84,5 @@ This scenario mirrors common patterns seen in life sciences and manufacturing tr
 ## About
 
 Built by Anshuman Agarwal
-Former Data Engineer, Revvity (Life Sciences)
-MS in Business Analytics, Data Science Concentration, Suffolk University (2026)
-Targeting AI and Digital Transformation Consulting at Big 4 firms
 
 LinkedIn: [linkedin.com/in/anshumanag](https://linkedin.com/in/anshumanag)
